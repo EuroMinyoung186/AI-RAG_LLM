@@ -1,2 +1,2 @@
 # AI-RAG_LLM
-welcome to the multimodal intelligence labatory
+welcome to the multimodal interactive intelligence labatory
